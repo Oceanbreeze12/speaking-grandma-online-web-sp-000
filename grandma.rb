@@ -1,5 +1,5 @@
 Def speak_to_grandma("I LOVE YOU GRANDMA!")
-if ("I LOVE YOU GRANDMA!").uppercase
+if== ("I LOVE YOU GRANDMA!").uppercase
   "NO, NOT SINCE 1938!"
   elsif
   phrase
